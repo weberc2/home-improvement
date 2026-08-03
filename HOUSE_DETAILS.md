@@ -5,7 +5,7 @@
 - **Interior Walls:** Plaster/mortar over expanded metal lath. Cutting a new opening means cutting the lath, and the lath tends to tear back well past the intended opening.
 
 ### Electrical
-- **Grounding:** Original circuits have no equipment grounding conductor. Replacing a receptacle means either GFCI protection (receptacles marked "GFCI Protected" and "No Equipment Ground") or re-pulling the run.
+- **Grounding:** Original circuits have no equipment grounding conductor. Replacing a receptacle means either re-pulling the run, or GFCI protection per NEC 406.4(D)(2) — in which case the receptacles are marked "GFCI Protected" and "No Equipment Ground", and **no equipment grounding conductor may be run between them**. Bonding the device grounds together makes plug-in testers falsely read "grounded" and ties the exposed metal of every device on the run to a common floating conductor.
 - **Wiring:** Original cloth-jacketed conductors; the outer jacket disintegrates where it is disturbed.
 - **Original Outlet Boxes:** Steel boxes are *offset* from the stud by a steel arm that wraps around the front of the stud, behind the lath/mortar. Removing one requires cutting the metal lath around the box and cutting through the arm itself — expect the resulting opening to end up significantly larger than the new box. See #20.
 
