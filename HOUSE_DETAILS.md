@@ -1,5 +1,14 @@
 # House Details
 
+## General Construction
+- **Year Built:** 1940s.
+- **Interior Walls:** Plaster/mortar over expanded metal lath. Cutting a new opening means cutting the lath, and the lath tends to tear back well past the intended opening.
+
+### Electrical
+- **Grounding:** Original circuits have no equipment grounding conductor. Replacing a receptacle means either GFCI protection (receptacles marked "GFCI Protected" and "No Equipment Ground") or re-pulling the run.
+- **Wiring:** Original cloth-jacketed conductors; the outer jacket disintegrates where it is disturbed.
+- **Original Outlet Boxes:** Steel boxes are *offset* from the stud by a steel arm that wraps around the front of the stud, behind the lath/mortar. Removing one requires cutting the metal lath around the box and cutting through the arm itself — expect the resulting opening to end up significantly larger than the new box. See #20.
+
 ## Garage
 - **Dimensions:** 19'3" Deep x 11'7" Wide.
 - **Height:** 8'5" (north wall), 8'6" (south wall), 88.5" (north wall floor to ceiling).
